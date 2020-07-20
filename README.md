@@ -8,7 +8,7 @@ Karena berpikir keras, tiba-tiba Makaji lapar. Akhirnya ia berjalan menuju Warmi
 
 [Panitia - 16519600]
 
-"Diskon 100% untuk semua menu!". Tulisan tersebut terpampang lebar-lebar di depan pintu masuk. "Ada apa ini?" Pikir Makaji. Ia tidak habis pikir bagaimana sesuatu yang selama ini hanya pernah ia bayangkan di mimpinya menjadi kenyataan.
+"Diskon 100% untuk semua menu!" Tulisan tersebut terpampang lebar-lebar di depan pintu masuk. "Ada apa ini?" Pikir Makaji. Ia tidak habis pikir bagaimana sesuatu yang selama ini hanya pernah ia bayangkan di mimpinya menjadi kenyataan.
 
 Makaji memberanikan dirinya untuk masuk ke warung tersebut. Namun ia tersentak kaget.
 
