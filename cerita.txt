@@ -14,6 +14,13 @@ Makaji memberanikan dirinya untuk masuk ke warung tersebut. Namun ia tersentak k
 
 [Feralezer L. G. Tampubolon - 16519059]
 
-Ternyata penyelenggaraan 100 tahun warmindo telah dimulai.
+<<<<<<< HEAD
+
+=======
+Ia kaget karena melihat syarat tambahan yang harus dilakukan untuk mendapatkan diskon 100%, yaitu mencuci piring. Karena itu ia langsung saja ...
+
+[Ariya Adinatha - 16519524 ]
+>>>>>>> edef9fb11c584b939c293058fe774bb3597ffe8f
+Menuju dapur Warmindo. Namun ia mendapati sama sekali tidak ada piring. Yang tersedia hanyalah mangkok.
 
 [Muhammad Fawwaz Naabigh - 16519184]
