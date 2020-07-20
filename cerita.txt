@@ -14,6 +14,10 @@ Makaji memberanikan dirinya untuk masuk ke warung tersebut. Namun ia tersentak k
 
 [Feralezer L. G. Tampubolon - 16519059]
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> bd858708287c1d9e5067df6767fbb9364ce68e59
 Ia kaget karena melihat syarat tambahan yang harus dilakukan untuk mendapatkan diskon 100%, yaitu mencuci piring. Karena itu ia langsung saja ...
 
 [Ariya Adinatha - 16519524 ]
