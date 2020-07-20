@@ -13,3 +13,6 @@ Karena berpikir keras, tiba-tiba Makaji lapar. Akhirnya ia berjalan menuju Warmi
 Makaji memberanikan dirinya untuk masuk ke warung tersebut. Namun ia tersentak kaget.
 
 [Feralezer L. G. Tampubolon - 16519059]
+
+Karena ada salah satu temannya yang juga sedang makan dengan menggunakan baju dengan gambar waifu favoritnya, setelahnya tanpa pikir panjang.
+[Mochammad Fatchur Rochman - 16519083]
